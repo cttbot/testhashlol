@@ -1,5 +1,34 @@
 [
 	{
+		"name": "ShadowAIO123",
+		"fileName": "BotTest.dll",
+		"updateTime": 1659963197,
+		"supported": [
+			23,
+			203,
+			48,
+			24,
+			10,
+			711,
+			11,
+			31,
+			29,
+			429,
+			90,
+			21,
+			17,
+			887,
+			427,
+			107,
+			119,
+			200,
+			234,
+			412,
+			75
+		],
+		"plugin_type": 1
+	},
+	{
 		"name": "1v9 AIO",
 		"fileName": "1v9-AIO.dll",
 		"updateTime": 1659963197,
