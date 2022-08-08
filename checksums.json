@@ -1,0 +1,131 @@
+{
+	"core": {
+		"x86": {
+			"core_plugin.dll": "dba7317ce62139ca9b10efecf2928a49"
+		}
+	},
+	"lib": {
+		"GameInjector.exe": "96ccb072082c4625e0e264f3267d8f9c"
+	},
+	"plugins": {
+		"x86": {
+			"1v9-AIO.dll": "60c757105d01b468fc1b027b77c883f4",
+			"ADCSeries.dll": "c9b3be888c3e9805ca817be8b5b2a507",
+			"AuroraOrb.dll": "cf0032152028235a1f4ce938de47db88",
+			"AuroraPrediction.dll": "7c78b8c4ddbb40504cc1d4cd3e25d523",
+			"BGX.dll": "9302946906ff9d936b09aeb3b98f0627",
+			"BGXEvade.dll": "b29049de6b32206991a6169ca7d4b390",
+			"BanthorsAIO.dll": "6013eb32fef5ebab8b7b00471819eb59",
+			"BenAIO.dll": "ef47615fae16840c3afe549ee8efb23f",
+			"BlackOutAIO.dll": "c82ab9e69289cfad6143f70a5d73a47e",
+			"BlackOutActivator.dll": "faee7d6f58161e4b1674f70e41d4685f",
+			"CSXAIO.dll": "7010d636bf3be54e658f121a66e6e518",
+			"DivineSeries.dll": "19347594373ef5df8ab2b53bf595f50e",
+			"EnzuAIO.dll": "95352de68913d473f1946cd6e82c9127",
+			"ExodiaAIO.dll": "5fc4c356742ab081a4a8e0485a733086",
+			"GodComplex.dll": "f5e69f2c9a916872be65cd7039e939d6",
+			"JonSenAio.dll": "1062aacd401fb27f6e8154726606a231",
+			"KiriAIO.dll": "85c64afb00387f9ca84487094f897752",
+			"KiriRecallKill.dll": "7d36a6f9be0e6f7626e0ce35e05974fe",
+			"L9AIO.dll": "85e96bd959dea13d3958616ff754438e",
+			"L9Utility.dll": "aea4f30640000af9bf0cc99ce0a1b90d",
+			"LeaguesharpAIO.dll": "d5c043a6ef9d3a8ab860f5997c3eeb24",
+			"LordsPred.dll": "1cfec9d36f04683d018b10d8177daaaa",
+			"MKayn.dll": "09e39488b31e49761205220504a6aa5d",
+			"Marksman.dll": "2fbdc9f152b7b3b14b180916bb8ca795",
+			"MidlaneCarry.dll": "96655043299d238bd731c6941803a224",
+			"OmoriAIO.dll": "064e8825e997edc0dbe257e3e245d84c",
+			"OuijAIO.dll": "ff0a0a054542edbc78e42ea9e9e55751",
+			"RageAIO.dll": "e175d9291a6026b1f44a7aa1ae0fafee",
+			"SebasBGX.dll": "102ce55d669738d44aaf8c631eabc95b",
+			"SebasPrediction.dll": "41150c1deecddc889468da4aabe00f31",
+			"ShadowAIO.dll": "2af5a9696f8d18f159c73f4298063d01",
+			"SmartPings.dll": "fe80c1e8710ce17f578b84a95a324a1c",
+			"TaiwanAIO.dll": "88f1c5af50e0cf3667eb721f3de2a516",
+			"ToxicAIO.dll": "60655aeca33802bf3ab9721212954b8e",
+			"TrueDamageAIO.dll": "a04c8b8bbf5209e66640975a93629e6d",
+			"Utility.dll": "c2cb5acd4be93d5e0f6a5a7b7ccce226",
+			"WafendAIO.dll": "7d2d88528058378557fcc4c3a473f0cb",
+			"YordleAIO.dll": "53c2d5698b2dedccba6ddcf7817c08ac",
+			"YuumiBot.dll": "dff93503ef7a1da62d569f5f43f28b9e",
+			"ZEDithAIO.dll": "4df1cbc89fc51a8b1b7e40518615be39",
+			"ZEDithPred.dll": "d811293a908d9c9b837920a253d1dfdb",
+			"ZekCarry.dll": "cfd0db2a8b804cacf9daeb48c31c3993",
+			"ZiraPack.dll": "70f5102f6ef87f76722afa26804f1a5b",
+			"ZzihaoAIO.dll": "21e104552b39177aa9d7d2e82b98e613",
+			"entropy-aio.dll": "f00004b24e5dc66b33c2153f365c4aba",
+			"roadAIO.dll": "6a1903c7e13fa1683a3ea4d638a76835",
+			"xDreammsAIO.dll": "e3a9cf2aba583f212a035144b67c67fc"
+		}
+	},
+	"resources": {
+		"BlackOutAIO": {
+			"ahri_menu.png": "cbadf1d4ec558cee0fa02ca33c241adb",
+			"belveth_circle.png": "f80115efa0a0343541442114623a8000",
+			"belveth_passive.png": "a3ad1470bacc5a533b6a31350cd027e4",
+			"blackout_activator.png": "b8f012ba178df967cb0a7d7f0800d008"
+		},
+		"WafendAIO": {
+			"dropdown_icon_permashow.png": "2526922639572c3970f01813de8e6eda",
+			"dropup_icon_permashow.png": "2d15f6e7ac8d505e9db7bed8d81566cf"
+		},
+		"Zek": {
+			"zek.png": "33ea14c559e61e7ea3b08697d36c564d"
+		},
+		"auroraorb": {
+			"anti_afk.png": "e7b4bc43bfd926f84468469ca574c4cc",
+			"developers.png": "af54cc6d060e908432352ee4ae5dcbe7",
+			"drawing.png": "6b7c720c23c2289fae37689b86115160",
+			"gold.png": "baecad8f831a2135e4d43671acdea0ed",
+			"humanizer.png": "42e641c6231bd32518de05d7a1c6b9af",
+			"main_tab.png": "13a44b894e31b2b116d7650cbaf7aa9e",
+			"mode.png": "e1c229abaa58fc79a7d9a3cc700b76f8",
+			"settings.png": "c21f68222f04868c574f9411dabd69a3",
+			"target.png": "9d20074218f1442039aafa769d01d346",
+			"wings.png": "3d725329b0b00a6a61d0a0f1469e5e86"
+		},
+		"bgx_banner.dds": "fc873bb63d1ccf98d4b5369bf93b0e30",
+		"dead": {
+			"im_sad.wav": "f4ed7238bd4119e5f31bcaef6cfb2be8",
+			"need_more_pratice.wav": "ee5cccbc54ccb9899c7926b73dd3d0bb",
+			"never_giveup.wav": "9b3c0e13960c5c03f72d900488531cd4",
+			"next_time.wav": "d3fb3cc07796d9812b6829bdc2111389",
+			"not_this_time.wav": "ade24971d4a92d82b33585b48526ecb6",
+			"only_game_mad.wav": "57ed66006b8c6abf4b98c7f2dab1d256",
+			"you_almost.wav": "fa19037205f02f379696ec71b347e7a3",
+			"you_can_more.wav": "7c0ced97954b7e298386a0100e874930",
+			"you_disappointed.wav": "4190955bb7f32d83544eb0934cdba7b2"
+		},
+		"die.dds": "4c9116cd338f573330e5d95bcb0b46bf",
+		"double": {
+			"amazing.wav": "09856e2657d4291153586caa46a63a1b",
+			"dont_stop.wav": "46182fbed5971065cc4aa6a7e916fd9b",
+			"good_job.wav": "42e9f25618cde6fed19eee6ce16e686e",
+			"show_more.wav": "ec22ec0f9f2905666f467f5f91d7c7ee",
+			"very_nice.wav": "1d227103a7bfb1e99c6f79d79fa28353"
+		},
+		"double_kill.dds": "6e0a0ef5a4af00d4e506472629786b50",
+		"l9.dds": "9198dd77c22f7a52817a54f1b4a88521",
+		"penta": {
+			"good_job_hero.wav": "5ed285a66f558a755ef8452a44c31308",
+			"master_wet.wav": "d8546d5e89c8dbd0f494d0c1b3261c74",
+			"wanna_waifu.wav": "d62a460c0d9ed8cbe762aadd46d0bb54"
+		},
+		"penta_kill.dds": "bf09210302aabebd46e3f3f705ea2a30",
+		"quadra": {
+			"charming.wav": "879a96c30a7c4568c92dc0e71ab446fe",
+			"one_left.wav": "6ccdd3e7782094cf1ec5d48e3a8c0cbc",
+			"you_god.wav": "107b61ab24075064292cda1aaea3cfb5",
+			"you_me_so_good.wav": "b7d947a7b303cbf72875d64b445b7bd4"
+		},
+		"quadra_kill.dds": "641fa62e78f3b11a04c1f2910475dc05",
+		"triple": {
+			"half_down.wav": "0a93c57a92f31cb6515368db82563071",
+			"it_was_clean.wav": "ebf988f3d13f993e5ac775aaf5973263",
+			"more_more.wav": "9b125e14495e5108dbe2144a749bc5cf",
+			"more_please.wav": "e07077bfb4642efe1597e96246d9dc20",
+			"you_best.wav": "953b9cca166c23ac37c6d38866afa59b"
+		},
+		"triple_kill.dds": "fc55982344a2aa59c4b5a06609aa2cb7"
+	}
+}
